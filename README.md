@@ -1,5 +1,3 @@
-![alt text](https://github.com/algerza/ecommerce_time_series_forecast/blob/main/cover.jpg?raw=true)
-
 # E-commerce Sales Forecast
 
 
@@ -11,4 +9,5 @@ In other words, imagine you're trying to predict the future sales of an online s
 By comparing forecasting models like VARIMA from DARTS library, Prophet by Meta, and ForecasterAutoreg from SKForecast, e-commerce businesses can unlock powerful insights into consumer behavior and market trends. These models offer sophisticated tools to analyze historical sales data alongside marketing initiatives, enabling businesses to forecast units sold with greater precision and anticipate the effects of marketing campaigns or web traffic trends on future sales. Through this comparative analysis, e-commerce stakeholders can enhance their predictive capabilities, optimize resource allocation, and make data-driven decisions that propel their businesses to success in the competitive online marketplace.
 
 ### What data was used?
+
 The data provided is synthetic and entirely fictitious. Consequently, it may not accurately reflect situations encountered in real e-commerce data. To simulate realistic scenarios, deliberate gaps have been introduced to mimic instances when servers were off or bugs occurred. While this notebook does not delve deeply into correcting imperfect datasets, I thought it may be useful to include these "effects" to make the fake data closer to reality.
